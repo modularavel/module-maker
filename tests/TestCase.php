@@ -3,8 +3,8 @@
 namespace Modularavel\ModuleMaker\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Modularavel\ModuleMaker\ModuleMakerServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {

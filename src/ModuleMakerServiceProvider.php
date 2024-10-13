@@ -2,9 +2,9 @@
 
 namespace Modularavel\ModuleMaker;
 
+use Modularavel\ModuleMaker\Commands\ModuleMakerCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Modularavel\ModuleMaker\Commands\ModuleMakerCommand;
 
 class ModuleMakerServiceProvider extends PackageServiceProvider
 {
